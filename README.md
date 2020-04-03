@@ -1,5 +1,8 @@
 # Be_The_Hero
-App desenvolvido junto ao material da SemanaOministack 11.0 (Rocketseat)
+
+App developed with material from SemanaOministack 11.0 (Rocketseat)
+
+![be_the_hero](https://user-images.githubusercontent.com/51006430/78321941-b77e7c80-7543-11ea-849b-0e7aada1f80f.png)
 
 # Server
 
